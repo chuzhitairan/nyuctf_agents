@@ -34,7 +34,7 @@ prompts:
   keep_going: |
     Please proceed to the next step using your best judgment.
 
-demostration:
+demonstration:
   hints: ~
     # - "configs/baseline/hints/base_hint.md"
     # - "configs/baseline/hints/base_hint_2.md"
